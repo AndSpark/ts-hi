@@ -1,0 +1,24 @@
+{
+  "name": "ts-hi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndSpark/ts-hi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndSpark/ts-hi/issues"
+  },
+  "homepage": "https://github.com/AndSpark/ts-hi#readme",
+  "devDependencies": {
+    "typescript": "^4.2.2"
+  }
+}
